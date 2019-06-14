@@ -3,7 +3,7 @@
 Hi! My name is Erika and I am currently transitioning into tech, mainly focusing on Front End Web Development. My current industry is automotive insurance and my previous background was in Customer Service. I love learning new things, and I am looking forward to seeing where my journey will take me 
 > You don't have to be great to start, but you do have to start to be great. Zig Ziglar :gem:
 
-## Technologies I am currently learning :computer:
+## Technologies I am currently learning :bulb:
 
 :computer: Terminal
 Version Control
